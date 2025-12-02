@@ -1,9 +1,9 @@
 cloud:
   aws:
     region:
-      static: ap-south-1
+      static: ap-east
     credentials:
-      access-key: YOUR_AWS_ACCESS_KEY
+      access-key: Babu_Kase_Ho
       secret-key: YOUR_AWS_SECRET_KEY
     stack:
       auto: false
