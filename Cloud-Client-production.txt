@@ -1,0 +1,5 @@
+cloudinary:
+  cloud-name: demo_cloud_123
+  api-key: 123456789012345
+  api-secret: abcdefghijklmnopqrstuvwxyz123456
+  secure: true
